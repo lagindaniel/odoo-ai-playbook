@@ -13,3 +13,4 @@ These playbooks are direct, reusable examples of how I approach real Odoo tasks.
 ## Playbooks
 
 - [Odoo Module Audit](playbooks/odoo_module_audit.md)
+- [Odoo AI Ready Module](playbooks/odoo_ai_ready_module.md)
